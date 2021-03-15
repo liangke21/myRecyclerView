@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="icofruit">
+        <item>"#水果"</item>
+        <item>@drawable/g1</item>
+        <item>@drawable/g2</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/g5</item>
+        <item>@drawable/g6</item>
+        <item>@drawable/g7</item>
+        <item>@drawable/g8</item>
+        <item>@drawable/g9</item>
+        <item>@drawable/g10</item>
+        <item>"#蔬菜"</item>
+        <item>@drawable/r1</item>
+        <item>@drawable/r2</item>
+        <item>@drawable/r3</item>
+        <item>@drawable/r4</item>
+        <item>@drawable/r5</item>
+        <item>@drawable/r6</item>
+        <item>@drawable/r7</item>
+        <item>@drawable/r8</item>
+    </string-array>
+
+    <array name="Titlefruit">
+        <item>[水果]</item>
+        <item>青苹果</item>
+        <item>芒果</item>
+        <item>香蕉</item>
+        <item>荔枝</item>
+        <item>椰子</item>
+        <item>葡萄</item>
+        <item>猕猴桃</item>
+        <item>橙子</item>
+        <item>橘子</item>
+        <item>西瓜</item>
+        <item>[蔬菜]</item>
+        <item>胡萝卜</item>
+        <item>玉米</item>
+        <item>茄子</item>
+        <item>青椒</item>
+        <item>蘑菇</item>
+        <item>罗卜</item>
+        <item>土豆</item>
+        <item>西红柿</item>
+
+
+    </array>
+
+
+</resources>
