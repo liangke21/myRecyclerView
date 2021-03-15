@@ -6,8 +6,8 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.Androidlk.recyclerview.data.Datafruit
-import com.chainiao5.recyclerview.adapter.CommonViewHolder
-import com.chainiao5.recyclerview.adapter.RecyclerViewdapter
+import com.Androidlk.recyclerview.adapter.CommonViewHolder
+import com.Androidlk.recyclerview.adapter.RecyclerViewdapter
 
 class MainActivity : AppCompatActivity() {
     private val typeTitle = 0

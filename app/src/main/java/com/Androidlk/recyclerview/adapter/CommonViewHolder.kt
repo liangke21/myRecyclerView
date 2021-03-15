@@ -1,4 +1,4 @@
-package com.chainiao5.recyclerview.adapter
+package com.Androidlk.recyclerview.adapter
 
 import android.util.SparseArray
 import android.view.LayoutInflater
